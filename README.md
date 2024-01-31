@@ -16,3 +16,4 @@ Bu proje, Getir'in mobil uygulamasının React Native ile klonunu oluşturan bir
 
 ![](getir.gif)
 # ReactNative-GetirCloneApp
+# -ReactNative-GetirCloneApp
