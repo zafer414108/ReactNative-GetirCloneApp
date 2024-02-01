@@ -27,5 +27,6 @@ Commented-out Code:
 Remove any commented-out code that is not needed. It helps to keep your codebase clean and easy to understand.
 
 # Screenn gif
-![ezgif com-speed (3)](https://github.com/zafer414108/ReactNative-GetirCloneApp/assets/147662873/7b8823c5-f726-4afe-abf9-4038af83f59a)
+
+![ezgif com-crop (2)](https://github.com/zafer414108/ReactNative-GetirCloneApp/assets/147662873/66f4c5af-927e-401d-9172-94bbd3b8c654)
 
